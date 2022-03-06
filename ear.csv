@@ -1,0 +1,10 @@
+small_id,model_name,region,channel,layer,threshold,img_path,size
+134,ffhq,ear,400,11,0.75,imgs/small_id_134_region_ear_t_0.75_layer_11_ch_400_0_seed_1.jpeg,100
+136,ffhq,ear,15,11,0.75,imgs/small_id_136_region_ear_t_0.75_layer_11_ch_15_0_seed_1.jpeg,100
+138,ffhq,ear,197,11,0.75,imgs/small_id_138_region_ear_t_0.75_layer_11_ch_197_0_seed_1.jpeg,100
+140,ffhq,ear,211,12,0.7,imgs/small_id_140_region_ear_t_0.7_layer_12_ch_211_0_seed_1.jpeg,100
+142,ffhq,ear,267,12,0.7,imgs/small_id_142_region_ear_t_0.7_layer_12_ch_267_0_seed_1.jpeg,100
+144,ffhq,ear,148,8,0.7,imgs/small_id_144_region_ear_t_0.7_layer_8_ch_148_0_seed_1.jpeg,100
+146,ffhq,ear,55,8,0.7,imgs/small_id_146_region_ear_t_0.7_layer_8_ch_55_0_seed_1.jpeg,100
+148,ffhq,ear,161,8,0.7,imgs/small_id_148_region_ear_t_0.7_layer_8_ch_161_0_seed_1.jpeg,100
+150,ffhq,ear,67,8,0.7,imgs/small_id_150_region_ear_t_0.7_layer_8_ch_67_0_seed_1.jpeg,100

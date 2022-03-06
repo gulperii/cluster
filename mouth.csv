@@ -1,0 +1,14 @@
+id,model_name,region,channel,layer,threshold,img_path,size
+534,ffhq,mouth,421,9,0.69,imgs/small_id_534_region_mouth_t_0.69_layer_9_ch_421_0_seed_1.jpeg,100
+536,ffhq,mouth,381,9,0.69,imgs/small_id_536_region_mouth_t_0.69_layer_9_ch_381_0_seed_1.jpeg,100
+538,ffhq,mouth,17,8,0.7,imgs/small_id_538_region_mouth_t_0.7_layer_8_ch_17_0_seed_1.jpeg,100
+540,ffhq,mouth,387,8,0.7,imgs/small_id_540_region_mouth_t_0.7_layer_8_ch_387_0_seed_1.jpeg,100
+542,ffhq,mouth,237,12,0.7,imgs/small_id_542_region_mouth_t_0.7_layer_12_ch_237_0_seed_1.jpeg,100
+544,ffhq,mouth,285,12,0.7,imgs/small_id_544_region_mouth_t_0.7_layer_12_ch_285_0_seed_1.jpeg,100
+546,ffhq,mouth,501,6,0.6,imgs/small_id_546_region_mouth_t_0.6_layer_6_ch_501_0_seed_1.jpeg,100
+548,ffhq,mouth,378,6,0.6,imgs/small_id_548_region_mouth_t_0.6_layer_6_ch_378_0_seed_1.jpeg,100
+550,ffhq,mouth,113,6,0.6,imgs/small_id_550_region_mouth_t_0.6_layer_6_ch_113_0_seed_1.jpeg,100
+552,ffhq,mouth,259,6,0.6,imgs/small_id_552_region_mouth_t_0.6_layer_6_ch_259_0_seed_1.jpeg,100
+554,ffhq,mouth,214,6,0.6,imgs/small_id_554_region_mouth_t_0.6_layer_6_ch_214_0_seed_1.jpeg,100
+556,ffhq,mouth,202,6,0.6,imgs/small_id_556_region_mouth_t_0.6_layer_6_ch_202_0_seed_1.jpeg,100
+558,ffhq,mouth,131,6,0.6,imgs/small_id_558_region_mouth_t_0.6_layer_6_ch_131_0_seed_1.jpeg,100
